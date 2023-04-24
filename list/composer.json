@@ -1,0 +1,17 @@
+{
+    "name": "ishawly/algorithm-learning-php",
+    "autoload": {
+        "psr-4": {
+            "Ishawly\\AlgorithmLearningPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shawly",
+            "email": "liber@shawly.cn"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
