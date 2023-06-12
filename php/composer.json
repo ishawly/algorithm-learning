@@ -1,8 +1,8 @@
 {
-    "name": "ishawly/algorithm-learning-php",
+    "name": "ishawly/algorithm-learning",
     "autoload": {
         "psr-4": {
-            "Ishawly\\AlgorithmLearningPhp\\": "src/"
+            "Ishawly\\AlgorithmLearning\\": "src/"
         }
     },
     "authors": [
